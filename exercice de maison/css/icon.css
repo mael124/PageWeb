@@ -1,0 +1,42 @@
+
+
+.tel
+{
+    color: orange;
+}
+
+.icon
+{
+    font-size: 30px;
+    color: orange;
+    float: left;
+    padding-top: 20px;
+    margin-left: 15px;
+}
+
+.user
+{
+    font-size: 20px;
+    color:#565756;
+    margin-right: 10px;
+}
+
+.panier
+{
+    font-size: 20px;
+    color:white;
+    margin-right: 10px;
+}
+
+.search
+{
+    margin-left: 5px;
+    color: #eaecea;
+}
+
+.lien
+{
+    color: orange;
+    font-size: 20px;
+    margin-right: 5px;
+}
